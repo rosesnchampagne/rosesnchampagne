@@ -30,7 +30,7 @@ $${\color{#898555}\text{always}}$$ $${\color{#817B31}\text{do}}$$
 
 ㅤ
  
-  ㅤ $${\color{#7B707E}\text{𝒕𝒉𝒆𝒚}}$$ ㅤㅤㅤㅤㅤㅤ $${\color{#6A4E43}\text{𝒕𝒉𝒆𝒎}}$$ㅤ
+  ㅤ $${\color{#CBC797}\text{𝒕𝒉𝒆𝒚}}$$ ㅤㅤㅤㅤㅤㅤ $${\color{#898555}\text{𝒕𝒉𝒆𝒎}}$$ㅤ
  
 <br>
 

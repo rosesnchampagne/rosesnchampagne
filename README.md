@@ -1,12 +1,12 @@
-
-
+$${\color{#CBC797}\text{crawling}}$$ $${\color{#A19D73}\text{back}}$$ 
+$${\color{#898555}\text{to}}$$ $${\color{#817B31}\text{you}}$$ 
 
 <div align="center">
 
 
 
 
-<img src="https://i.postimg.cc/0291pkKg/342fe1f7c5b7ba913c272c35cdac969a.jpg" width="100%" alt="Makoto Yuki" style="border-radius: 6px; border: 2px solid #00f5d4;"/>
+<img src="https://i.postimg.cc/d046tthd/Untitled48-20261121223319.png" width="100%" alt="Makoto Yuki" style="border-radius: 6px; border: 2px solid #00f5d4;"/>
 
 <br><br>
 

@@ -1,14 +1,4 @@
-$${\color{#CBC797}\text{crawling}}$$ $${\color{#A19D73}\text{back}}$$
-$${\color{#898555}\text{to}}$$ $${\color{#817B31}\text{you}}$$ 
 
-$${\color{#CBC797}\text{ever}}$$ $${\color{#A19D73}\text{thought}}$$
-$${\color{#898555}\text{of}}$$ $${\color{#817B31}\text{calling}}$$
-
-$${\color{#CBC797}\text{when}}$$ $${\color{#A19D73}\text{you've}}$$
-$${\color{#898555}\text{had}}$$ $${\color{#817B31}\text{a few?}}$$
-
-$${\color{#CBC797}\text{cause}}$$ $${\color{#A19D73}\text{I}}$$
-$${\color{#898555}\text{always}}$$ $${\color{#817B31}\text{do}}$$
 
 
 <div align="center">
@@ -17,7 +7,7 @@ $${\color{#898555}\text{always}}$$ $${\color{#817B31}\text{do}}$$
 
 
 
-<img src="https://i.postimg.cc/d046tthd/Untitled48-20261121223319.png" width="100%" alt="Makoto Yuki" style="border-radius: 6px; border: 2px solid #00f5d4;"/>
+<img src="https://i.postimg.cc/gJj2ckxV/Untitled49-20261122083357.png" width="100%" alt="Makoto Yuki" style="border-radius: 6px; border: 2px solid #00f5d4;"/>
 
 <br><br>
 

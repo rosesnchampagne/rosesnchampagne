@@ -9,6 +9,10 @@
 
 <img src="https://i.postimg.cc/gJj2ckxV/Untitled49-20261122083357.png" width="100%" alt="Makoto Yuki" style="border-radius: 6px; border: 2px solid #00f5d4;"/>
 
+<img src="https://i.postimg.cc/3xMg6zk7/Untitled51-20261122101207.png" width="100%" alt="Makoto Yuki" style="border-radius: 6px; border: 2px solid #00f5d4;"/>
+
+
+
 <br><br>
 
 

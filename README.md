@@ -1,1 +1,1 @@
-whatever. man, this readme still in progress. be patient. ok? loveyou
+whatever. man, this readme still a wip. be patient. ok? loveyou
